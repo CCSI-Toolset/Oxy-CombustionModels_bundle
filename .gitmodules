@@ -1,0 +1,6 @@
+[submodule "oxyfuel"]
+	path = oxyfuel
+	url = git@github.com:CCSI-Toolset/oxyfuel.git
+[submodule "boiler_model"]
+	path = boiler_model
+	url = git@github.com:CCSI-Toolset/boiler_model.git
